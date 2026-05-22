@@ -1,0 +1,5 @@
+Image 1: Shoulder: 0.597, Hip: 0.342, Ratio: 1.744, Shape: Rectangle
+Image 2: Shoulder: 0.601, Hip: 0.362, Ratio: 1.661, Shape: Hourglass
+Image 3: Shoulder: 0.526, Hip: 0.311, Ratio: 1.694, Shape: Hourglass
+Image 4: Shoulder: 0.528, Hip: 0.280, Ratio: 1.882, Shape: Inverted Triangle
+Image 5: Shoulder: 0.517, Hip: 0.312, Ratio: 1.657, Shape: Hourglass
